@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/clion_polka.dir/main.c.o  -o clion_polka -lm 

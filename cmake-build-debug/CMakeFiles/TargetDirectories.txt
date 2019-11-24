@@ -1,0 +1,3 @@
+/home/delvin/Рабочий стол/spo/clion_polka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/delvin/Рабочий стол/spo/clion_polka/cmake-build-debug/CMakeFiles/clion_polka.dir
+/home/delvin/Рабочий стол/spo/clion_polka/cmake-build-debug/CMakeFiles/edit_cache.dir
